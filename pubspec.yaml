@@ -1,5 +1,5 @@
-name: sqflite_sqlcipher_repo
-description: Sqflite SqlCipher repo
+name: sqflite_sqlcipher
+description: Sqflite SqlCipher
 version: 0.1.0
 homepage: https://github.com/davidmartos96/sqflite_sqlcipher
 publish_to: none
